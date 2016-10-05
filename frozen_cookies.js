@@ -13,6 +13,7 @@ var scriptElement = document.getElementById( 'frozenCookieScript' ),
 var script_list = [
     '//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js',
     '//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.css',
+    '//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js',
     '//cdnjs.cloudflare.com/ajax/libs/jcanvas/16.7.3/jcanvas.min.js',
     '//cdnjs.cloudflare.com/ajax/libs/jqPlot/1.0.8/jquery.jqplot.min.js',
     '//cdnjs.cloudflare.com/ajax/libs/jqPlot/1.0.8/jquery.jqplot.min.css',
